@@ -1,3 +1,4 @@
+// 不一定所有的图问题都需要用DFS或者BFS
 #include <bits/stdc++.h>
 using namespace std;
 
