@@ -1,11 +1,15 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <stack>
+#include <algorithm>
+#include <string>
+
 using namespace std;
 
-void func() {
-    cout << "test ok" << endl;
-}
-
 int main() {
-    func();
+    string str;
+    getline(cin, str);
+    cout << str;
+    getchar();
     return 0;
 }
